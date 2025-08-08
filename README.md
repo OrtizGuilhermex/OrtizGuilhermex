@@ -1,8 +1,7 @@
 👨‍💻 Luiz Guilherme
 Desenvolvedor em Ascensão | Entusiasta da Inovação | Explorador de Desafios Tecnológicos
 
-Sobre Mim
-Olá! Sou Luiz Guilherme, tenho 17 anos e sou natural de Jaraguá do Sul (SC). Atualmente, estou concluindo o Ensino Médio e atuo como Jovem Aprendiz na WEG, onde também curso Técnico em Desenvolvimento de Sistemas.
+Olá! Me chamo Luiz Guilherme, tenho 17 anos e sou natural de Jaraguá do Sul (SC). Atualmente, estou concluindo o Ensino Médio e atuo como Jovem Aprendiz na WEG, onde também curso Técnico em Desenvolvimento de Sistemas.
 
 Sou fascinado por tecnologia e movido pela curiosidade de entender e criar soluções digitais. Tenho me dedicado ao estudo de desenvolvimento de software, banco de dados, lógica computacional e desenvolvimento web, sempre buscando aprimorar minhas habilidades e expandir meu conhecimento.
 
