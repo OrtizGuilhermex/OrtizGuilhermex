@@ -1,9 +1,12 @@
-## 👨‍💻 Gustavo da Silva Desenvolvedor em Ascensão | Apaixonado por Inovação | Em Busca de Novos Desafios Tecnológicos
-Sobre Mim Oi, sou o Gustavo! Tenho 18 anos e sou de Jaraguá do Sul (SC). Atualmente, estou no último ano do Ensino Médio e sou Jovem Aprendiz na WEG, onde também estou cursando Técnico em Desenvolvimento de Sistemas.
+👨‍💻 Luiz Guilherme
+Desenvolvedor em Ascensão | Apaixonado por Inovação | Em Busca de Novos Desafios Tecnológicos
+
+Sobre Mim
+Oi, sou o Luiz! Tenho 17 anos e sou de Jaraguá do Sul (SC). Atualmente, estou no último ano do Ensino Médio e sou Jovem Aprendiz na WEG, onde também estou cursando Técnico em Desenvolvimento de Sistemas.
+
 Sou fascinando pelo mundo da tecnologia e sempre em busca de aprender mais sobre desenvolvimento de software, banco de dados, lógica computacional e desenvolvimento web. A cada dia, me envolvo mais com esse universo, explorando novas ferramentas e técnicas.
+
 Meu objetivo? Construir uma carreira sólida e inovadora na tecnologia, trazendo soluções criativas e eficientes para os desafios do setor. 🌱
-
-
 
 ### 🤖 Linguagens e Tecnologias
 <img 
@@ -79,18 +82,19 @@ Meu objetivo? Construir uma carreira sólida e inovadora na tecnologia, trazendo
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" 
 />
 
+<br/>
+<br/>
 
+### 📊 Estatísticas
 
-
-
-
+<p>
   <img 
     align="left" 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
 src="https://github-readme-stats.vercel.app/api?username=OrtizGuilhermex&show_icons=true&count_private=true&theme=tokyonight&locale=pt-br&cache_seconds=1800" 
-        alt="Estatísticas do GitHub de Daniel Müller" 
+        alt="Estatísticas do GitHub de Luiz" 
         height="200"
       />
     <img 
@@ -101,3 +105,14 @@ src="https://github-readme-stats.vercel.app/api?username=OrtizGuilhermex&show_ic
         alt="Tecnologias mais usadas" 
         height="200"
      />
+<div >
+
+
+</div>
+
+
+
+<div >
+
+
+</p>
