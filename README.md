@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=a9a9a9&height=120&section=header"/>
+
 👨‍💻 Luiz Guilherme
 Desenvolvedor em Ascensão | Entusiasta da Inovação | Explorador de Desafios Tecnológicos
 
@@ -106,12 +108,10 @@ src="https://github-readme-stats.vercel.app/api?username=OrtizGuilhermex&show_ic
      />
 <div >
 
-
 </div>
-
-
 
 <div >
 
-
 </p>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=a9a9a9&height=120&section=footer"/>
