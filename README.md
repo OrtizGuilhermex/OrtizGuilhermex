@@ -1,13 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=a9a9a9&height=120&section=header"/>
 
 👨‍💻 Luiz Guilherme
-Desenvolvedor em Ascensão | Entusiasta da Inovação | Explorador de Desafios Tecnológicos
 
 Olá! Me chamo Luiz Guilherme, tenho 17 anos e sou natural de Jaraguá do Sul (SC). Atualmente, estou concluindo o Ensino Médio e atuo como Jovem Aprendiz na WEG, onde também curso Técnico em Desenvolvimento de Sistemas.
-
-Sou fascinado por tecnologia e movido pela curiosidade de entender e criar soluções digitais. Tenho me dedicado ao estudo de desenvolvimento de software, banco de dados, lógica computacional e desenvolvimento web, sempre buscando aprimorar minhas habilidades e expandir meu conhecimento.
-
-Meu propósito é construir uma carreira sólida e inovadora na área de tecnologia, contribuindo com soluções criativas, eficientes e alinhadas às necessidades do mercado. Estou em constante evolução, pronto para enfrentar novos desafios e transformar ideias em resultados. 🚀
 
 ### 🤖 Linguagens e Tecnologias
 <img 
