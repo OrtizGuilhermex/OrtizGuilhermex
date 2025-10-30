@@ -1,6 +1,12 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=003366&height=120&section=header"/>
 
-Olá! Me chamo Luiz Guilherme, tenho 17 anos e sou natural de Jaraguá do Sul (SC). Atualmente, estou concluindo o Ensino Médio e atuo como Jovem Aprendiz na WEG, onde também curso Técnico em Desenvolvimento de Sistemas.
+<h1 align="center">👋 Olá! Seja bem vindo ao meu perfil do GitHub.</h1>
+
+<div align="center">
+  <h2>Meu nome é Luiz Guilherme!</h2>
+</div>
+
+Tenho 18 anos e sou natural de Jaraguá do Sul (SC). Atualmente, estou concluindo o Ensino Médio e atuo como Jovem Aprendiz na WEG, onde também curso Técnico em Desenvolvimento de Sistemas.
 
 <div align = "left">
 
