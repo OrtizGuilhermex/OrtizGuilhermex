@@ -1,112 +1,63 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=a9a9a9&height=120&section=header"/>
-
-👨‍💻 Luiz Guilherme
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=003366&height=120&section=header"/>
 
 Olá! Me chamo Luiz Guilherme, tenho 17 anos e sou natural de Jaraguá do Sul (SC). Atualmente, estou concluindo o Ensino Médio e atuo como Jovem Aprendiz na WEG, onde também curso Técnico em Desenvolvimento de Sistemas.
 
-### 🤖 Linguagens e Tecnologias
-<img 
-    align="left" 
-    alt="HTML" 
-    title="HTML" 
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS" 
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Java" 
-    title="Java" 
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="MySQL" 
-    title="MySQL" 
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="VS Code" 
-    title="Visual Studio Code" 
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Eclipse" 
-    title="Eclipse" 
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="IntelliJ IDEA" 
-    title="IntelliJ IDEA" 
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Figma" 
-    title="Figma" 
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Arduino" 
-    title="Arduino" 
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" 
-/>
+<div align = "left">
 
-<br/>
-<br/>
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-src="https://github-readme-stats.vercel.app/api?username=OrtizGuilhermex&show_icons=true&count_private=true&theme=tokyonight&locale=pt-br&cache_seconds=1800" 
-        alt="Estatísticas do GitHub de Luiz" 
-        height="200"
-      />
-    <img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=OrtizGuilhermex&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=1800" 
-        alt="Tecnologias mais usadas" 
-        height="200"
-     />
-<div >
+[![Linkedin Badge](https://img.shields.io/badge/-luizguilhermeortiz-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/-/)](https://www.linkedin.com/in/luizguilhermeortiz/)
+[![Instagram Badge](https://img.shields.io/badge/-@ortizguilherme-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/ortizguilherme/)](https://instagram.com/ortizguilherme)
+[![Gmail Badge](https://img.shields.io/badge/-luizguilhermeortizz-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:luizguilhermeortizz@gmail.com)](mailto:luizguilhermeortizz@gmail.com)
 
 </div>
 
-<div >
+<br>
+
+
+<div align = "center">
+
+<p align="center">
+ 
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OrtizGuilhermex&show_icons=true&bg_color=000000&title_color=004B9B&text_color=FFFFFF&icon_color=004B9B&hide_border=false&include_all_commits=false&count_private=false" width="400"/>
+  
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OrtizGuilhermex&layout=compact&bg_color=000000&title_color=004B9B&text_color=FFFFFF&hide_border=false" width="400"/>
 
 </p>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=a9a9a9&height=120&section=footer"/>
+</div>
+
+<br>
+
+# 💻 Tecnologias:
+<div align="center" style= "display = inline-block">
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Dbeaver](https://img.shields.io/badge/dbeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Node-RED](https://img.shields.io/badge/Node--RED-%238F0000.svg?style=for-the-badge&logo=node-red&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-0078d7.svg?style=for-the-badge&logo=scrumalliance&logoColor=white)
+![Render](https://img.shields.io/badge/Render-070D0D?style=for-the-badge&logo=render&logoColor=white)
+
+</div>
+
+<br>
+
+<br>
+
+
+<p align = 'center'>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=OrtizGuilhermex&background=000000&ring=004B9B&fire=FFFFFF&currStreakLabel=004B9B&sideNums=FFFFFF&currStreakNum=004B9B&sideLabels=004B9B&dates=FFFFFF&hide_border=false" width="500"/>
+
+<br>
+
+  <img src="https://komarev.com/ghpvc/?username=OrtizGuilhermex&style=flat-square&color=0077B5" alt="Contador de Visitas"/>
+
+</p>
