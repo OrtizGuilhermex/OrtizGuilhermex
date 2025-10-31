@@ -10,9 +10,9 @@ Tenho 18 anos e sou natural de Jaraguá do Sul (SC). Atualmente, estou concluind
 
 <div align = "left">
 
-[![Linkedin Badge](https://img.shields.io/badge/-luizguilhermeortiz-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/-/)](https://www.linkedin.com/in/luizguilhermeortiz/)
-[![Instagram Badge](https://img.shields.io/badge/-@ortizguilherme-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/ortizguilherme/)](https://instagram.com/ortizguilherme)
-[![Gmail Badge](https://img.shields.io/badge/-luizguilhermeortizz-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:luizguilhermeortizz@gmail.com)](mailto:luizguilhermeortizz@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-luizguilhermeortiz-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/luizguilhermeortiz/)
+[![Instagram Badge](https://img.shields.io/badge/-@ortizguilherme-purple?style=flat&logo=instagram&logoColor=white)](https://instagram.com/ortizguilherme)
+[![Gmail Badge](https://img.shields.io/badge/-luizguilhermeortizz-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:luizguilhermeortizz@gmail.com)
 
 </div>
 
