@@ -6,7 +6,7 @@
   <h2>Meu nome é Luiz Guilherme!</h2>
 </div>
 
-Tenho 18 anos e sou natural de Jaraguá do Sul (SC). Atualmente, estou concluindo o Ensino Médio e atuo como Jovem Aprendiz na WEG, onde também curso Técnico em Desenvolvimento de Sistemas.
+Tenho 18 anos e sou natural de Jaraguá do Sul (SC). Atualmente, estou atuando como Jovem Aprendiz na WEG, onde curso Técnico em Desenvolvimento de Sistemas.
 
 <div align = "left">
 
