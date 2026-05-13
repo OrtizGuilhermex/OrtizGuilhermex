@@ -61,7 +61,6 @@ Organizadas por proficiência e uso no dia a dia.
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats-beta-seven-51.vercel.app/api?username=OrtizGuilhermex&show_icons=true&bg_color=0d1117&title_color=004B9B&text_color=FFFFFF&icon_color=004B9B&hide_border=false&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-beta-seven-51.vercel.app/api/top-langs/?username=OrtizGuilhermex&layout=compact&bg_color=0d1117&title_color=004B9B&text_color=FFFFFF&hide_border=false" />
 </p>
 
 <br>
