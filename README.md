@@ -19,7 +19,7 @@ explorando diferentes tecnologias, com maior domínio em **Java** e avançando a
 
 * ☕ **Foco Principal:** Aprofundando conhecimentos em **Java** e iniciando a jornada com **Spring Boot**.
 * 🛠️ **Habilidades:** Experiência com modelagem de bancos de dados **MySQL** e desenvolvimento de interfaces modernas.
-* 📈 **Metodologia:** Trabalhando com **Scrum** e boas práticas de versionamento com **Git/GitHub**.
+* 📈 **Metodologia:** Trabalhando com **Scrum** e boas práticas de versionamento com **Git/GitHub**. 
 
 ---
 
