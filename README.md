@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 👋 Olá, eu sou o Luiz Guilherme! 
+# 👋 Olá, eu sou o Luiz Guilherme!
 
 **Aprendiz no CentroWEG | Desenvolvedor de Sistemas em Formação** 
 
