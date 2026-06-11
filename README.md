@@ -6,7 +6,7 @@
 
 **Aprendiz no CentroWEG | Desenvolvedor de Sistemas em Formação** 
 
-Sou de Jaraguá do Sul (SC) e atualmente faço parte do programa de aprendizagem da WEG. Meu dia a dia consiste em aprender e aplicar os fundamentos do desenvolvimento de sistemas, 
+Sou de Jaraguá do Sul (SC) e atualmente faço parte do programa de aprendizagem da WEG. Meu dia a dia consiste em aprender e aplicar os fundamentos do desenvolvimento de sistemas,
 explorando diferentes tecnologias, com maior domínio em **Java** e avançando agora para o  **Spring Boot**.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/luizguilhermeortiz/)
