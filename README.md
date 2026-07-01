@@ -4,7 +4,7 @@
 
 # 👋 Olá, eu sou o Luiz Guilherme!
 
-**Aprendiz no CentroWEG | Desenvolvedor de Sistemas em Formação**
+**Aprendiz no CentroWEG | Desenvolvedor de Sistemas em Formação** 
 
 Sou de Jaraguá do Sul (SC) e atualmente faço parte do programa de aprendizagem da WEG. Meu dia a dia consiste em aprender e aplicar os fundamentos do desenvolvimento de sistemas,
 explorando diferentes tecnologias, com maior domínio em **Java** e avançando agora para o  **Spring Boot**.
