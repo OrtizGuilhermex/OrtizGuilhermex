@@ -3,7 +3,7 @@
 <div align="center">
 
 # 👋 Olá, eu sou o Luiz Guilherme!
-
+ 
 **Aprendiz no CentroWEG | Desenvolvedor de Sistemas em Formação**
 
 Sou de Jaraguá do Sul (SC) e atualmente faço parte do programa de aprendizagem da WEG. Meu dia a dia consiste em aprender e aplicar os fundamentos do desenvolvimento de sistemas,
