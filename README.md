@@ -10,7 +10,7 @@ Sou de Jaraguá do Sul (SC) e atualmente faço parte do programa de aprendizagem
 explorando diferentes tecnologias, com maior domínio em **Java** e avançando agora para o  **Spring Boot**.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/luizguilhermeortiz/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:luizguilhermeortizz@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:luizguilhermeortizz@gmail.com) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ortizguilherme)
 
 ---
