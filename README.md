@@ -2,12 +2,11 @@
 
 <div align="center">
 
-# 👋 Olá, eu sou o Luiz Guilherme!
+# 👋 Hi, I'm Luiz Guilherme!
  
-**Aprendiz no CentroWEG | Desenvolvedor de Sistemas em Formação**
+**Software Engineering Student | WEG**
 
-Sou de Jaraguá do Sul (SC) e atualmente faço parte do programa de aprendizagem da WEG. Meu dia a dia consiste em aprender e aplicar os fundamentos do desenvolvimento de sistemas,
-explorando diferentes tecnologias, com maior domínio em **Java** e avançando agora para o  **Spring Boot**.
+I am currently studying **Software Engineering** and working at **WEG** in the **Product Compliance** department, where I focus on automating processes.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/luizguilhermeortiz/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:luizguilhermeortizz@gmail.com) 
@@ -15,22 +14,12 @@ explorando diferentes tecnologias, com maior domínio em **Java** e avançando a
 
 ---
 
-### 🚀 Meu Momento Atual
+### 💻 Technologies & Tools
 
-* ☕ **Foco Principal:** Aprofundando conhecimentos em **Java** e iniciando a jornada com **Spring Boot**.
-* 🛠️ **Habilidades:** Experiência com modelagem de bancos de dados **MySQL** e desenvolvimento de interfaces modernas.
-* 📈 **Metodologia:** Trabalhando com **Scrum** e boas práticas de versionamento com **Git/GitHub**. 
-
----
-
-### 💻 Tecnologias e Ferramentas
-
-Organizadas por proficiência e uso no dia a dia.
-
-**Back-end & Database (Foco Principal)**
+**Languages, Back-end & Database**
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,mysql,python,nodejs" alt="Java, Spring, MySQL" />
+    <img src="https://skillicons.dev/icons?i=java,spring,mysql,python,nodejs" alt="Backend Technologies" />
   </a>
 </p>
 
@@ -41,14 +30,14 @@ Organizadas por proficiência e uso no dia a dia.
   </a>
 </p>
 
-**Ferramentas de Desenvolvimento & Análise**
+**DevOps & Tools**
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,docker,postman,powershell,linux" alt="Dev Tools" />
   </a>
 </p>
 
-**Outras Competências**
+**Other Skills**
 <p align="center">
   <img src="https://img.shields.io/badge/Node--RED-%238F0000.svg?style=flat-square&logo=node-red&logoColor=white" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
@@ -57,7 +46,7 @@ Organizadas por proficiência e uso no dia a dia.
 
 ---
 
-### 📊 Estatísticas no GitHub
+### 📊 GitHub Stats
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats-beta-seven-51.vercel.app/api?username=OrtizGuilhermex&show_icons=true&bg_color=0d1117&title_color=004B9B&text_color=FFFFFF&icon_color=004B9B&hide_border=false&include_all_commits=true&count_private=true" />
@@ -65,6 +54,6 @@ Organizadas por proficiência e uso no dia a dia.
 
 <br>
 
-![Contador de Visitas](https://komarev.com/ghpvc/?username=OrtizGuilhermex&style=flat-square&color=0077B5)
+![Profile Views](https://komarev.com/ghpvc/?username=OrtizGuilhermex&style=flat-square&color=0077B5)
 
 </div>
