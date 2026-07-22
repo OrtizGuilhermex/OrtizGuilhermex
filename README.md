@@ -4,7 +4,7 @@
 
 # 👋 Hi, I'm Luiz Guilherme! 
  
-**Software Engineering Student | WEG** 
+**Software Engineering Student | WEG**
 
 I am currently studying **Software Engineering** and working at **WEG** in the **Product Compliance** department, where I focus on automating processes.
 
